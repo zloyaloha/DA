@@ -1,2 +1,1 @@
-# DA
-MAI Lab's discrete-analysys
+# discrete-analys
